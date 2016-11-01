@@ -1,5 +1,5 @@
 using NUnit.Framework;
-using Lib.FilesToTest;
+using Lib.ExampleProject;
 
 namespace Tests.ExampleClassTests
 {

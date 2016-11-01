@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Lib.FilesToTest
+namespace Lib.ExampleProject
 {
     public class ExampleClass
     {
